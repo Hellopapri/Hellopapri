@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **HTML-5,CSS,JAVASCRIPT,PHP**
 
 - 📫 How to reach me **papripm01@gmail.com**
+  
+- 📄 All About Me:[https://lnk.bio/HelloPapri](https://lnk.bio/HelloPapri)
 
 - ⚡ Fun fact **I think i'm funny😋**
 
