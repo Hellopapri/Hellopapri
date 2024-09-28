@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **papripm01@gmail.com**
   
-- 📄 All About Me:[https://lnk.bio/HelloPapri](https://lnk.bio/HelloPapri)
+- 📄 All about me [https://lnk.bio/HelloPapri](https://lnk.bio/HelloPapri)
 
 - ⚡ Fun fact **I think i'm funny😋**
 
