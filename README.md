@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Papri Majumdar</h1>
-<h3 align="center">A passionate Data Analysis from Bangladesh</h3>
+<h3 align="center">A passionate Data Analyst & AI Autonomation Engineer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src= https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellopapri&label=Profile%20views&color=0e75b6&style=flat" alt="hellopapri" /> </p>
 
