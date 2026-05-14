@@ -4,10 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellopapri&label=Profile%20views&color=0e75b6&style=flat" alt="hellopapri" /> </p>
 
 - 🌱 I’m currently learning **-:
+• n8n
+• Zapier
+• PowerBi
+• Python
 • SQL
 • DAX
 • Excel
-• PowerBi
 • Data modeling
 • Problem solving
 • Data visualization
@@ -17,7 +20,7 @@
   
 - 📄 All about me [https://lnk.bio/HelloPapri](https://lnk.bio/HelloPapri)
 
-- ⚡ Fun fact **I think i'm funny😋**
+- ⚡ Fun fact **Turns caffeine and chaos into AI projects,late-night commits,and oddly satisfying GitHub repos.🚀😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
