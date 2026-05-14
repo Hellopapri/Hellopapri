@@ -71,21 +71,17 @@
 
 
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hellopapri&show_icons=true&title_color=ff69b4&icon_color=f7c948&text_color=333333&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
+<p>
+  <img src="https://streak-stats.demolab.com?user=hellopapri&ring=ff69b4&fire=f7c948&currStreakLabel=ff69b4&sideLabels=333333&dates=666666&currStreakNum=333333&sideNums=333333&background=ffffff&hide_border=true" alt="GitHub Streak" />
+</p>
 
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hellopapri&layout=compact&title_color=ff69b4&text_color=333333&bg_color=ffffff&hide_border=true" alt="Top Languages" />
 </p>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellopapri&show_icons=true&locale=en&layout=compact" alt="hellopapri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellopapri&show_icons=true&locale=en" alt="hellopapri" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellopapri&" alt="hellopapri" /></p>
 
