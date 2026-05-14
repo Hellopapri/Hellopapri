@@ -16,11 +16,11 @@
 • Data visualization
 • Prompt engineering**
 
-- 📫 How to reach me - **papripm01@gmail.com**
+- 📫 How to reach me - **paprimajumdar01@gmail.com**
   
 - 📄 All about me - [https://lnk.bio/HelloPapri](https://lnk.bio/HelloPapri)
 
-- ⚡ **Fun fact - Turns caffeine and chaos into AI projects,late-night commits,and oddly satisfying GitHub repos.🚀😋**
+- ⚡ **Fun fact - Turning caffeine and chaotic ideas into AI workflows, dashboards, and oddly satisfying GitHub repos.🚀😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
